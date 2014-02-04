@@ -1,0 +1,75 @@
+
+
+nav {
+float:left;
+display: block;
+
+
+
+
+
+}
+
+#signin {
+background-color: blue;
+color:white;
+border-radius:2px;
+width:20px;
+padding:25px;
+height:10px;
+}
+
+/*div {
+	float: left;
+	padding: 200px;
+	width: 500px;
+	display: inline;
+
+
+}
+*/
+
+.logo {
+
+	height:85px;
+	width: 260px;
+	margin-left:500px;
+   margin-top: 170px;
+ 
+}
+
+
+
+
+ 
+
+input {
+margin-left:325px;
+border:1px solid #d8d8d8 ;
+width:600px;
+Height:30px;
+
+}
+
+.;
+
+
+}
+
+header {
+
+margin-left:300px;
+background-color:1D79BA;
+border:20px;
+
+
+
+}
+
+
+body {
+
+background-color:1995D7; 
+
+
+}
